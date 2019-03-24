@@ -1,0 +1,33 @@
+Mar 24 19:30:55 vpc irslackd[17811]: irc_in WHO #cto_team_leadership
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U0AGTSN1L irslackd api.slack.com jay_colson G :0 Jay Colson <jay.colson@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U08HB5DD4 irslackd api.slack.com chandra_venkata G :0 Chandra Venkata <chandra.venkata@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U0AH8R97H irslackd api.slack.com sheri_horwitz G :0 Sheri Horwitz <sheri.horwitz@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U0AMQDSVC irslackd api.slack.com patrick_doran G :0 Patrick Doran <patrick.doran@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U0DPY7HB5 irslackd api.slack.com michael_bellomo G :0 Michael Bellomo <michael.bellomo@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U0ERK3ZS4 irslackd api.slack.com IRSLACKD_DELETED_andy_cox G :0 Andy Cox <andy.cox@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U103CJ2KY irslackd api.slack.com suren_nathan G :0 Suren Nathan <suren.nathan@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U103PMXSR irslackd api.slack.com IRSLACKD_DELETED_andrew_jackson G :0 Andrew Jackson <andrew.jackson@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U1PGUPPN0 irslackd api.slack.com barry_twohig G :0 Barry Twohig <barry.twohig@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U1RB2FPL5 irslackd api.slack.com jeff_gill G :0 Jeff Gill <jeff.gill@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U1T0RDP5Z irslackd api.slack.com chuck_machlin G :0 Chuck Machlin <chuck.machlin@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U279WFT96 irslackd api.slack.com subhash_bana G :0 Subhash Bana <subhash.bana@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership UB2QYM4R5 irslackd api.slack.com larry_lorden G :0 Larry Lorden <larry.lorden@synchronoss.com>
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership UFY3MC3HP irslackd api.slack.com sed G :0 sed
+Mar 24 19:30:55 vpc irslackd[17811]: irc_out :irslackd 315 jay_colson #cto_team_leadership :End of WHO list
+
+
+Mar 24 19:32:15 vpc irslackd[17811]: irc_in WHO #cto_team_leadership
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U0AGTSN1L irslackd api.slack.com jay_colson G :0 Jay Colson <jay.colson@synchronoss.com>
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U08HB5DD4 irslackd api.slack.com chandra_venkata G :0 Chandra Venkata <chandra.venkata@synchronoss.com>
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U0AH8R97H irslackd api.slack.com sheri_horwitz G :0 Sheri Horwitz <sheri.horwitz@synchronoss.com>
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U0AMQDSVC irslackd api.slack.com patrick_doran G :0 Patrick Doran <patrick.doran@synchronoss.com>
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U0DPY7HB5 irslackd api.slack.com michael_bellomo G :0 Michael Bellomo <michael.bellomo@synchronoss.com>
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U103CJ2KY irslackd api.slack.com suren_nathan G :0 Suren Nathan <suren.nathan@synchronoss.com>
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U1PGUPPN0 irslackd api.slack.com barry_twohig G :0 Barry Twohig <barry.twohig@synchronoss.com>
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U1RB2FPL5 irslackd api.slack.com jeff_gill G :0 Jeff Gill <jeff.gill@synchronoss.com>
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U1T0RDP5Z irslackd api.slack.com chuck_machlin G :0 Chuck Machlin <chuck.machlin@synchronoss.com>
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership U279WFT96 irslackd api.slack.com subhash_bana G :0 Subhash Bana <subhash.bana@synchronoss.com>
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership UB2QYM4R5 irslackd api.slack.com larry_lorden G :0 Larry Lorden <larry.lorden@synchronoss.com>
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 352 jay_colson #cto_team_leadership UFY3MC3HP irslackd api.slack.com sed G :0 sed
+Mar 24 19:32:15 vpc irslackd[17811]: irc_out :irslackd 315 jay_colson #cto_team_leadership :End of WHO list
+
