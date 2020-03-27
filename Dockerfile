@@ -7,11 +7,11 @@ RUN apk add --no-cache \
     npm
 
 # setup repo
-RUN git clone https://github.com/jcolson/irslackd /irslackd
+#RUN git clone https://github.com/jcolson/irslackd /irslackd
+COPY . /irslackd
 
 # install
 RUN cd /irslackd && npm install
-
 
 # runtime image
 FROM $BASE
